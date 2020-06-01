@@ -6,7 +6,7 @@ Library to detect weird characters in a string and convert them to normal chars.
 I mostly used https://instafonts.io to find the weird chars.
 
 ### Install
-`npm i weird-to-normal-chars`
+`npm install weird-to-normal-chars`
 
 ### Example
 ```js
